@@ -24,4 +24,4 @@ const CardContent = React.forwardRef(({ className, ...props }, ref) => (
 ))
 CardContent.displayName = "CardContent"
 
-export { Card, CardHeader, CardContent } 
+export { Card, CardHeader, CardContent }
