@@ -19,11 +19,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
-.vercel
-=======
 
 # IDE
 .idea/
 .vscode/
->>>>>>> bfc8a4ae555ea710ade0528d65069c0a493612e1
+
+# Vercel
+.vercel
